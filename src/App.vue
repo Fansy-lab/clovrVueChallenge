@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup>
 import RandomComponent from "./components/RandomComponent.vue";
 </script>
 
