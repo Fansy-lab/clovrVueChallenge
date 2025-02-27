@@ -7,7 +7,8 @@ This project might not be perfect, but that's where you come in!
 We’re looking forward to seeing how you tackle the issues. Follow the steps below to get started.
 
 1. Install Dependencies
-   npm install
+
+npm install
 
 2. Once the dependencies are installed, run the development server:
 
